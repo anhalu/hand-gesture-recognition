@@ -1,7 +1,7 @@
 /Data/* 
-!/Data/*.keepfolder 
-!/Data/train_datasets/*.keepfolder 
-!/Data/valid_datasets/*.keepfolder 
+!/Data/.keepfolder 
+!/Data/train_datasets/.keepfolder 
+!/Data/valid_datasets/.keepfolder 
 /models/
 /resources/ 
 
