@@ -13,5 +13,10 @@ pip install matplotlib
 pip install scipy 
 pip install ipykernel 
 pip install tensorflow
-
+pip install mediapipe
 ```
+
+Result 
+
+![file](https://user-images.githubusercontent.com/89495585/216136565-f7dd73fc-3d13-490e-9b6c-348513a643a3.gif)
+
